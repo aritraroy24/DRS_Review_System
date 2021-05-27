@@ -1,0 +1,7 @@
+tkinter
+cv2
+PIL.Image
+PIL.ImageTk
+functools
+threading
+imutils
